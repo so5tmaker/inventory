@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="26">
+        <file>
+            <url>classes/db.php</url>
+            <bookmark id="25">
+                <name/>
+                <line>421</line>
+                <key/>
+            </bookmark>
+            <bookmark id="26">
+                <name/>
+                <line>709</line>
+                <key/>
+            </bookmark>
+            <bookmark id="23">
+                <name/>
+                <line>727</line>
+                <key/>
+            </bookmark>
+            <bookmark id="24">
+                <name/>
+                <line>745</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>admin/items_new_new.php</url>
+            <bookmark id="14">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="13">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="10">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>orderdetails.php</url>
+            <bookmark id="18">
+                <name/>
+                <line>519</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>admin/barcode/php-barcode.php</url>
+            <bookmark id="4">
+                <name/>
+                <line>427</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>admin/items.php</url>
+            <bookmark id="6">
+                <name/>
+                <line>199</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/single.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/totals_log.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/prices.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/getorderid_new.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/style.css</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/treport.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/totalsreport.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/items_new_new.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/header.html</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/options.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/items_new.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/css/style.css</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/classes/db.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/items.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/incomelist.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/siteoptions.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/actions.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/orderdetails.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/ordersreport.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/scripts/inventory.js</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/scripts/jtable/themes/lightcolor/blue/jtable.css</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/orders.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/blocks/header.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/users.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/getitemidbybarcode.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/createitemprice.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/blocks/righttd.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/CalculateTotals.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/getorderid_old.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/blocks/lefttd.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/getorderid.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/index.php</file>
+            <file>file:/C:/Program%20Files/WebServers/home/localhost/www/inventory/admin/orders.php</file>
+        </group>
+    </open-files>
+</project-private>

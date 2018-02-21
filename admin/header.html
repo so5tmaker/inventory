@@ -1,0 +1,60 @@
+<?php require_once ("lock.php");
+$dir = (isset($dir)) ? $dir : '';
+?>
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8">  
+    <title><?php echo $title_here ?></title>
+    <link href="<?php echo $dir?>themes/redmond/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+    <link href="<?php echo $dir?>scripts/jtable/themes/lightcolor/blue/jtable.css" rel="stylesheet" type="text/css" />
+
+    <script src="<?php echo $dir?>scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="<?php echo $dir?>scripts/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+    <script src="<?php echo $dir?>scripts/jtable/jquery.jtable.js" type="text/javascript"></script>
+    
+    <script type="text/javascript" src="scripts/ajaxupload.3.5.js" ></script>
+    <script type="text/javascript" src="<?php echo $dir?>scripts/inventory.js" ></script>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    
+    <script>
+    $(document).ready(function(){
+
+        // hide #back-top first
+        $("#back-top").hide();
+
+        // fade in #back-top
+        $(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 200) {
+                    $('#back-top').fadeIn();
+                } else {
+                    $('#back-top').fadeOut();
+                }
+            });
+
+            // scroll body to 0px on click
+            $('#back-top a').click(function () {
+                $('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+        });
+
+    });
+    </script>
+  
+  </head>
+  <body id="top">
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="main_border">
+<!--Подключаем шапку сайта-->
+<?php  
+include("blocks/header.php");   ?>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+<!--Подключаем левый блок сайта-->
+<?php include ("blocks/lefttd.php");?>
+        <td valign="top"><br>
+            

@@ -1,0 +1,178 @@
+/* CSS Document */
+
+.main_border {border:1px solid #000000;}
+p {font-family:Verdana; font-size:12px; margin:15px;}
+.left {background-color:#f6f6f6; border-right:1px solid #424242;}
+.right{background-color:#f6f6f6; border-left:1px solid #424242;}
+body {background-image:url(img/bg.jpg)}
+
+.totalslog div{
+    margin: 10px;
+}
+
+.totalslog {
+    margin: 10px;
+}
+
+.header_td{
+	background-color: #2275AD; 
+	border-bottom:1px solid Black; 
+	color:white;
+	font-size:38px;
+	width:790px;
+	height:100px;
+	text-align : center;
+	font : bolder;
+	font-family : Verdana;
+}
+
+.footer_t{
+	font-size : 10px;
+	text-align : center;
+	padding: 0 0 0 0;
+	width : 50%;
+	color: Black;
+	font-style: oblique;
+	background-color: #2275AD;
+	border: 1px solid Black; 
+	font-family : Verdana;
+}
+
+p.title {
+background-color: #2275AD;
+color: #ffffff;
+font-weight:bold;
+margin:5px;
+padding:5px;
+}
+
+#coolmenu{
+border: 1px solid gray; /*Стиль рамки */
+border-bottom-width: 0;
+width: 93%; /*Ширина меню */
+background-color: #f6f6f6;  /*Фоновый цвет ячейки*/
+margin:7px; /*Ширина отступов*/
+}
+
+* html #coolmenu{ 
+width: 150px;/*Ширина меню для Internet Explorer*/
+}
+
+#coolmenu a{
+font: bold 13px Verdana; /*Шрифт текста*/
+padding: 2px; /*Внутренний отсутп текста ссылки от краев ячейки*/
+padding-left: 4px;/*Внутренний отсутп текста ссылки от левого края ячейки*/
+display: block;
+width: 100%; /*Ширина ячейки*/
+color: #000000;  /*Цвет текста*/
+text-decoration: none; /*Подчеркивание у ссылок - нет*/
+border-bottom: 1px solid gray;
+}
+
+html>body #coolmenu a{ 
+width: auto;
+}
+
+#coolmenu a:hover{
+background-color: #cccccc; /*Фоновый цвет ячейки при наведение курсора*/
+color: #000000;  /*Цвет текста при наведении курсора*/
+}
+
+p.title2 {
+background-color: #C4C92F;
+color: #ffffff;
+font-weight:bold;
+margin:5px;
+padding:5px;
+}
+
+.form1 {
+font-family: Verdana;
+font-size: 10px;
+}
+
+.form3 {
+font-family: Verdana;
+font-size: 11px;
+}
+
+.formm {
+border: 1px solid #cccccc;
+margin:5px;
+}
+
+.lesson {border:1px solid #cccccc; width:95%;}
+.lesson_title {background-color:#f6f6f6;}
+
+.lesson_name {font-weight:bold; margin-top:7px; margin-bottom:7px;}
+.lesson_adds {font-size:11px; margin-top:7px; margin-bottom:7px; color:#424242;}
+
+.view_title {font-size:16px; font-weight:bold; color:#cc0000; text-align:center;}
+.view_date {font-size:11px; color:#424242; margin-top:7px; margin-bottom:7px; font-weight:bold;}
+
+/*********************** для миниатюр ********************/
+ol.sdfhju {
+    margin-left: -20px !important;
+}
+
+.fhjk {
+    color: #333333;
+    font: 700 1em/18px "PT Sans Narrow",Arial,sans-serif;
+    margin: 10px 0 0;
+    padding: 0 0 0 20px;
+    text-align: center;
+    width: 150px;
+}
+
+.rle {
+    border: 1px solid #CCCCCC;
+    float: left;
+    height: 270px;
+    list-style-type: none;
+    margin: 0 3px 6px !important;
+}
+/*********************** конец для миниатюр ********************/
+
+/************************ Стили кнопки перехода на верх страницы ********************/
+/* Стили кнопки перехода на верх страницы */
+#back-top {
+    position: fixed;
+    top: 90%;
+    margin-left: 92%;
+    background: none repeat scroll 0 0 #F1F1F1;;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    color: #666666;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    opacity: 0.7;
+    filter:alpha(opacity=60);
+    left:0;
+}
+
+#back-top a {
+    width: 114px;
+    display: block;
+    text-align: center;
+    font: 14px/100%;
+    opacity:1;filter:alpha(opacity=100);
+/*    opacity: 0.5;
+    filter:alpha(opacity=50);*/
+/*    text-transform: uppercase;*/
+    text-decoration: none;
+    /*cursor: pointer;*/
+    /* замедление */
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+}
+#back-top a:hover {
+/*    color: #000;
+    background-color: #F1F1F1;*/
+/*color: #F1F1F1;*/
+color: #3E78FD;
+    opacity:1;filter:alpha(opacity=100);
+    cursor:pointer;
+}
+
+/************************ Конец стилей кнопки перехода на верх страницы ********************/
